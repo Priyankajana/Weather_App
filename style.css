@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Lora', serif;
+  text-align: center;
+  /* bottom: -50px; */
+  background: url(https://www.teahub.io/photos/full/0-6092_4k-background.jpg);
+  background-size: cover;
+}
+.pg{
+  bottom: -550%;
+  color: rgb(255, 255, 255);
+  
+}
